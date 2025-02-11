@@ -1,3 +1,5 @@
+Note - we have implemented a FutureBuilder on the grocery list page which was for illustration purposes alone. Hence, I've included both pages as a note for reference. FutureBuilder, while great to conditionally render a complex page with live data fed to it for rendering and rendering alone; it's use case here is arguably redundant due to the multi-screen information flow required for our grocery list screen.
+
 Here are some examples to the error handling we've implemented below; 
 
 Server side read and write access has been granted. We can POST, DELETE, and GET data just fine.
